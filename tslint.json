@@ -21,7 +21,7 @@
         "indent": [
             true,
             "spaces",
-            4
+            2
         ],
         "interface-name": [
             true,
@@ -82,15 +82,10 @@
         ],
         "quotemark": [
             true,
-            "single",
-            "jsx-double"
+            "double"
         ],
         "radix": true,
-        "semicolon": [
-            true,
-            "always",
-            "ignore-bound-class-methods"
-        ],
+        "semicolon": false,
         "switch-default": true,
         "trailing-comma": [
             false
@@ -131,5 +126,6 @@
             "check-type",
             "check-typecast"
         ]
-    }
+    },
+    "defaultSeverity": "warning"
 }

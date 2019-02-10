@@ -1,7 +1,5 @@
-import TodoTable from './TodoTable';
+import TodoTable from "./TodoTable"
 
-export {
-    TodoTable
-};
+export { TodoTable }
 
-export default TodoTable;
+export default TodoTable
