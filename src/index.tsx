@@ -12,6 +12,3 @@ if (module.hot) {
     ReactDOM.render(<NextApp />, rootEl)
   })
 }
-
-// comment in for PWA with service worker in production mode
-// registerServiceWorker();
