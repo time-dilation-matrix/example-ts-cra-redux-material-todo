@@ -1,8 +1,8 @@
 {
-  "name": "create-react-app-material-typescript-redux",
+  "name": "example-ts-cra-redux-material-todo",
   "version": "0.0.1",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "@material-ui/core": "3.9.2",
     "@material-ui/icons": "3.0.2",
